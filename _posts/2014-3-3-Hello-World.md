@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to my world
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+![_config.yml](http://www.accountancyresourcinggroup.co.uk/media/1116/industry-40.png)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Good (.......) you can fill it with which time you read this.
+As we know nowadays we live in cyber world, the industrial players call it with Industrial Revolution 4.0. Many jobs replaced by Technology especially with computer technology. I will here to share about thats technology that can change our world and the main purpose is to make this world more better than before. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Thanks for reading this short post. I make this because honestly i hate the default post of the blog (You know is always says lorem ipsum dolor sit amet, that's very disgusting)
+
+And im moslem so i will says, Wassalamualaikum Wr Wb.
+Good (.......) you can fill it with which time you read this (Again).
+
